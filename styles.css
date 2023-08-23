@@ -1,9 +1,9 @@
-
-html, body {  
+html,
+body {  
     background-image: linear-gradient(
-        rgba(255, 255, 255, .75),
-        rgba(125, 125, 125, .5) 20%,
-        rgba(0, 0, 0, .5) 40%
+            rgba(255, 255, 255, .75),
+            rgba(125, 125, 125, .5) 20%,
+            rgba(0, 0, 0, .5) 40%
         ), url('assets/skyline.avif');
     background-repeat: no-repeat;
     background-attachment: fixed;
